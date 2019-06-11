@@ -1,0 +1,20 @@
+Dependencies with API Level
+CustomerOnboarding :
+1.	Storing of below documents in IPFS and generating hash:
+•	Scanned copy of Passport of the customer.
+•	Scanned copy of PAN card of the customer.
+
+2.	API for creating a new ethereum account for the registered customer.
+AssetRegistration :
+2.	Storing of below documents in IPFS and generating hash:
+•	Scanned copy of encumbrance certificateof the asset.
+•	Scanned copy of title deed document of the asset.
+•	Scanned copy of title deed tax receipt document of the asset.
+•	Scanned copy of audit document for the asset. 
+•	Scanned copy of NOC document for the asset. 
+•	Scanned copy of POS document for the asset. 
+
+3.	API for creating digital signature.
+
+
+With these APIs and the APIs for various functions in the smart contracts the flow for the asset tokenization platform could be completed. 
